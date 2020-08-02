@@ -48,7 +48,8 @@ FED actions, COVID-19 and a global depression doesn't ameliorate any of the core
 
 ![China_SOE](Images/China_SOE_invst.png)
 
-![China_private](Images/China_private_invst.png)
+
+![China_private](Images/China_private.png)
 
 ## US Big Tech Names Have A Huge Week
 
