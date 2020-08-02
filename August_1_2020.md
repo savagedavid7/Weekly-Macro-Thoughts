@@ -46,10 +46,10 @@ FED actions, COVID-19 and a global depression doesn't ameliorate any of the core
 
  However, over-investment in bloated State-Owned enterprises, in real-estate and in infrastructure continues(see below for 2020 First half fixed-asset investment growth in China) and hopes that the pandemic would accelerate China's transition to a consumer based economy is simply not being reflected in the data.
 
+![China_private](Images/China_private.png)
+
 ![China_SOE](Images/China_SOE_invst.png)
 
-
-![China_private](Images/China_private.png)
 
 ## US Big Tech Names Have A Huge Week
 
